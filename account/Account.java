@@ -3,7 +3,7 @@ import java.util.Date;
 public class Account {
   private int id;
   private double balance;
-// Interest Rate Same For EveryOne
+//// Interest Rate Same For EveryOne
   private static double annualInterestRate;
 // Date
   private Date dateCreated = new Date();
